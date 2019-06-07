@@ -1,4 +1,4 @@
-Lys
+PLG
 ===
 
 A concurrent programming language based on asynchronous π-calculus.
