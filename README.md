@@ -1,4 +1,4 @@
-PLG
+POPI
 ===
 
 A concurrent programming language based on asynchronous π-calculus.
